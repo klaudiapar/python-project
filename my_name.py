@@ -1,2 +1,4 @@
 name = "Klaudia"
-print("Hello! My name is "+ str(name) + ".")
+
+for i in range(4):
+    print("Hello! My name is "+ str(name) + ".")
